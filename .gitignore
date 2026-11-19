@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Environments
+.venv/
+venv/
+env/
+
+# Secrets
+.env
+
+# Generated results
+outputs/
+data/results/
+
+# VS Code
+.vscode/
