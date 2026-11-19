@@ -223,7 +223,7 @@ The Streamlit application can be deployed using Streamlit Community Cloud by con
 
 Deployment link:
 
-**[Add Your Streamlit App URL Here]**
+**https://llm-assistant-that-writes-and-self-repairs-qiskit-code.streamlit.app/**
 
 **Important:** The current LLM integration uses a local Ollama endpoint (`http://localhost:11434/api/chat`). Consequently, the deployed Streamlit application can display its interface and available benchmark results, but live code generation and self-repair require an accessible remote LLM service. The local Ollama setup continues to work when running the application on a computer where Ollama is installed and running.
 
