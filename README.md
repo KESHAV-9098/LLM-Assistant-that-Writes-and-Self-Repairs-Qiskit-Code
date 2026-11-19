@@ -253,12 +253,3 @@ Qiskit HumanEval dataset:
 https://github.com/qiskit-community/qiskit-human-eval
 
 Refer to the original repository for dataset licensing and attribution requirements.
-
-## Contributors
-
-**Developed as an academic quantum computing project.**
-
-## License
-
-Choose an appropriate open-source license before publishing this repository. If you choose MIT, add a `LICENSE` file containing the MIT License text.
-
