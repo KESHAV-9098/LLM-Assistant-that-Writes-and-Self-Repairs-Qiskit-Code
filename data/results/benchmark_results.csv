@@ -1,0 +1,11 @@
+task_id,difficulty,baseline_success,repaired_success,repair_attempts,environment_error,execution_time
+qiskitHumanEval/0,basic,True,True,0,False,5.17
+qiskitHumanEval/1,basic,False,False,0,True,9.5
+qiskitHumanEval/2,basic,True,True,0,False,5.33
+qiskitHumanEval/3,basic,False,False,3,False,32.07
+qiskitHumanEval/4,basic,False,True,1,False,16.58
+qiskitHumanEval/5,basic,True,True,0,False,5.34
+qiskitHumanEval/6,basic,True,True,0,False,5.44
+qiskitHumanEval/7,basic,True,True,0,False,5.42
+qiskitHumanEval/8,basic,False,False,3,False,33.85
+qiskitHumanEval/9,basic,False,True,2,False,18.43
